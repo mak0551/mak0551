@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:-
 - write me at mohammedahmedkhan551@gmail.com
 - my portfolio https://mak551portfolio.netlify.app/
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
