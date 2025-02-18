@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - write me at mohammedahmedkhan551@gmail.com
 - my portfolio https://mak551portfolio.netlify.app/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mak0551&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mak0551&theme=react&hide_border=true)](https://git.io/streak-stats)
