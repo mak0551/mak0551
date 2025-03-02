@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mern-Stack
 - 🌱 I’m currently learning Mobile App Development
 - 💬 Ask me about Backend(Nodejs, expressjs, mongodb)
-- 📫 How to reach me:-
+- 📫 How to reach me:- 
 - write me at mohammedahmedkhan551@gmail.com
 - my portfolio https://mak551portfolio.netlify.app/
 
