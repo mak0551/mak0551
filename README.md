@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 Let's Connect! 
 - write me at mohammedahmedkhan551@gmail.com
 - my portfolio https://mak551portfolio.netlify.app/
-- [LinkedIn](https://www.linkedin.com/in/makhan551)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/makhan551)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mak0551&theme=react&hide_border=true)](https://git.io/streak-stats)
